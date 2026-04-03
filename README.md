@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @stacie-z
+- 👋 Hi, I’m Nyx
 - 👀 I’m interested in cats and coffee
 - 🌱 I’m currently learning Dart and Flutter
 
